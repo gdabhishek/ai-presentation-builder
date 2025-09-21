@@ -1,0 +1,25 @@
+# Core dependencies for PowerPoint Presentation Generator
+langchain-openai
+langchain-anthropic
+langgraph
+langgraph-swarm
+langchain-community
+langchain-core
+langgraph-supervisor
+
+# Research tools
+duckduckgo-search
+wikipedia
+arxiv
+
+# Utilities
+python-dotenv
+
+# PowerPoint generation
+python-pptx
+
+# Streamlit web app
+streamlit
+streamlit-option-menu
+streamlit-lottie
+

@@ -1,0 +1,26 @@
+# Environment Variables for PowerPoint Presentation Generator
+
+# OpenAI API Configuration
+OPENAI_API_KEY=your_openai_api_key_here
+
+# Anthropic API Configuration (alternative to OpenAI)
+ANTHROPIC_API_KEY=your_anthropic_api_key_here
+
+# Unsplash API Configuration (for image integration)
+UNSPLASH_ACCESS_KEY=your_unsplash_access_key_here
+
+GMAIL_APP_PASSWORD=your_gmail_app_password
+GMAIL_EMAIL=your_gmail_email
+SEARCHAPI_API_KEY="" #https://www.searchapi.io/
+# LangSmith Configuration (optional for debugging)
+# LANGCHAIN_TRACING_V2=true
+# LANGCHAIN_PROJECT=ppt_generator
+# LANGCHAIN_API_KEY=your_langsmith_api_key_here
+
+# Instructions:
+# 1. Copy this file to .env
+# 2. Replace the placeholder values with your actual API keys
+# 3. Get Unsplash API key from: https://unsplash.com/developers
+# 4. Get OpenAI API key from: https://platform.openai.com/api-keys
+
+
